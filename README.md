@@ -102,7 +102,7 @@ This folder contains empirical applications and interval estimation.
 
 | File | Description |
 |---|---|
-| `Mx_1x1_sweden.txt` | Swedish mortality data. |
+| `Mx_1x1_sweden.txt` | Swedish age-specific mortality data. |
 | `yield_curves full.csv` | Yield curve data. |
 
 ---
